@@ -1,0 +1,13 @@
+Package: PFAMProteinData
+Type: Package
+Title: PFAM Protein Data
+Version: 30.0
+Author: Zach Charlop-Powers
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: A data package describing the accessions, start locaiton, and end
+    location for all of Uniprot's proteins.
+License: CC0
+Suggests:
+    data.table (>= 1.9.6)
+LazyData: TRUE
+RoxygenNote: 5.0.1
